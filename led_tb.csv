@@ -1,0 +1,7 @@
+Time,led_tb.lt_led,led_tb.gt_led,led_tb.eq_led,led_tb.a_btn,led_tb.b_btn,led_tb.uut.a,led_tb.uut.a_btn,led_tb.uut.b,led_tb.uut.b_btn,led_tb.uut.eq_led,led_tb.uut.gt_led,led_tb.uut.lt_led
+0,1,1,0,1,1,0,1,0,1,0,1,1
+20,0,1,1,1,0,0,1,1,0,1,1,0
+40,1,1,0,0,0,1,0,1,0,0,1,1
+60,1,0,1,0,1,1,0,0,1,1,0,1
+80,1,1,0,1,1,0,1,0,1,0,1,1
+100,1,1,0,0,0,1,0,1,0,0,1,1
